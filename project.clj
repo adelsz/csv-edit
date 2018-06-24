@@ -9,6 +9,7 @@
                  [com.cognitect/transit-clj "0.8.309"]
                  [ring "1.6.3"]
                  [ring/ring-defaults "0.3.1"]
+                 [rum-mdl "0.2.1"]
                  [bk/ring-gzip "0.3.0"]
                  [radicalzephyr/ring.middleware.logger "0.6.0"]
                  [clj-logging-config "1.9.12"]
